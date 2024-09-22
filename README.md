@@ -19,7 +19,7 @@ This Terraform configuration includes the following resources:
   
 ## Components
 
-### Providers
+### Provider
 
 - **Azure Active Directory Provider (`azuread`)**: Used to manage users and groups in Azure AD.
 - **Azure Resource Manager Provider (`azurerm`)**: Used to manage Azure resources, including role assignments.
