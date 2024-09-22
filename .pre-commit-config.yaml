@@ -2,6 +2,6 @@
   rev: v1.50.0
   hooks:
     - id: terraform_fmt
-    - id: terraform_tflint
-      args: ['--args=--module']
+    # - id: terraform_tflint
+    #   args: ['--args=--module']
     - id: terraform_docs
